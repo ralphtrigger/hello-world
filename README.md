@@ -1,2 +1,6 @@
 # hello-world
-My first repository (just for learn GitHub)
+
+Hi Humans!
+
+Trigger here, I like programming, programming, programming...
+Code, code, code,...
